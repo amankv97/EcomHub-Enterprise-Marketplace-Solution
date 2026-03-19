@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ecommerce</groupId>
-	<artifactId>av-ecom</artifactId>
+	<artifactId>EcomHub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>av-ecom</name>
 	<description>Spring Boot Ecommerce Project</description>
